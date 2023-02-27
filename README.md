@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![yii-iyy.info](https://github-readme-stats.vercel.app/api?username=yii-iyy&show_icons=true)
+![yii-iyy.lang.top(8).info](https://github-readme-stats.vercel.app/api/top-langs/?username=yii-iyy&layout=compact&langs_count=8)
+
 <!--
 **yii-iiy/yii-iiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
