@@ -2,7 +2,7 @@
 
 Yoo. `i` am `invent` ...
 
-I mean, kidding ~ 🙃
+I mean, `kidding` ~ 🙃
 
 ----
 
