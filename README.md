@@ -7,9 +7,9 @@
 
 ### Hi there 👋
 
-Yoo. `i` am `invent` ...
+Oui! I am `yii`, and `i` am `invent` ...
 
-I mean, `kidding` ~ 🙃
+... I mean, `kidding` ~ 🙃
 
 ----
 
