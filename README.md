@@ -3,7 +3,7 @@
 [mona-whisper.gif]: ./funny-pics/mona-whisper.gif
 [mona-loading-default.gif]: ./funny-pics/mona-loading-default.gif
 
-![🚀 mona-launch][mona-launch.png]
+![😃 mona-loading][mona-loading-default.gif]
 
 ### Hi there 👋
 
@@ -13,7 +13,7 @@ I mean, `kidding` ~ 🙃
 
 ----
 
-![😃 mona-loading][mona-loading-default.gif]
+![🚀 mona-launch][mona-launch.png]
 
 ![yii-iiy.lang.top(8).info](https://github-readme-stats.vercel.app/api/top-langs/?username=yii-iiy&layout=compact&langs_count=8)
 
